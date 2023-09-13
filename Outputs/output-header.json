@@ -1,0 +1,21 @@
+{
+  "cursor": "/Users/doitoyoaki/Documents/workspace/latona/sap-api-integrations-production-order-conf-creates-rmq-kube/SAP_API_Caller/caller.go#L73",
+  "function": "sap-api-integrations-production-order-conf-creates-rmq-kube/SAP_API_Caller.(*SAPAPICaller).Header",
+  "level": "INFO",
+  "message": [
+    {
+      "OrderID": "1000000",
+      "Sequence": "0",
+      "OrderType": "PP01",
+      "ConfirmationText": "たまご作成 完了",
+      "ConfirmationYieldQuantity": "200",
+      "ConfirmatiQuantity": "0",
+      "ConfirmationGroup": "1",
+      "Language": "",
+      "Material": "5",
+      "Plant": "0001",
+      "WorkCenter": ""
+    }
+  ],
+  "time": "2023-09-12T12:12:28+09:00"
+}

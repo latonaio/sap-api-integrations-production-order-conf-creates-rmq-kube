@@ -1,0 +1,26 @@
+{
+	"connection_key": "request",
+	"result": true,
+	"redis_key": "abcdefg",
+	"filepath": "/var/lib/aion/Data/rededge_sdc/abcdef.json",
+	"api_status_code": 200,
+	"runtime_session_id": "boi9ar543dg91ipdnspi099u231280ab0v8af0ew",
+	"business_partner": 201,
+	"service_label": "SAPProductionOrderConfCreates",
+	"api_type": "creates",
+	"ProductionOrderConfirmation": {
+		"OrderID": "1000020",
+		"Sequence": "0",
+		"OrderType": "PP01",
+		"ConfirmationText": "たまご作成 完了",
+		"ConfirmationYieldQuantity": "200",
+		"ConfirmationScrapQuantity": "0",
+		"ConfirmationGroup": "1",
+		"Language": "",
+		"Material": "5",
+		"Plant": "0001",
+		"WorkCenter": ""
+	},
+	"api_schema": "SAPProductionOrderConfCreates",
+	"accepter": ["Header"]
+}
